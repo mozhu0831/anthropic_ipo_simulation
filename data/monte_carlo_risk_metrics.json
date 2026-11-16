@@ -1,0 +1,11 @@
+{
+    "Simulations_Run": 10000,
+    "P_Close_Above_Offer_WinRate": "99.99%",
+    "P_Broken_IPO_Close_Below_Offer": "0.01%",
+    "P_Open_Pop_Greater_20Pct": "58.76%",
+    "P_Open_Pop_Greater_30Pct": "11.17%",
+    "P_Open_Pop_Greater_50Pct": "0.01%",
+    "VaR_95_Dollar_Loss": "$0.00",
+    "Expected_Position_Return_Close": "25.15%",
+    "Sharpe_Ratio_Day1": 3.0132915271919454
+}

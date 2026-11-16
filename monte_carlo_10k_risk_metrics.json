@@ -1,0 +1,10 @@
+{
+    "Simulations_Run": 10000,
+    "P_Close_Above_Offer_WinRate": "100.00%",
+    "P_Broken_IPO_Close_Below_Offer": "0.00%",
+    "P_Open_Pop_Greater_20Pct": "76.57%",
+    "P_Open_Pop_Greater_30Pct": "19.63%",
+    "P_Open_Pop_Greater_50Pct": "0.01%",
+    "VaR_95_Dollar_Loss": "$0.00",
+    "CVaR_95_Expected_Shortfall": "$0.00"
+}
